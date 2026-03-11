@@ -1,14 +1,48 @@
-# Submission Checklist
+# AIRMAN Skynet Cloud Ops Intern Assessment — Submission Checklist
 
-Candidate Name: Sivasuriyan
+## 1) Candidate & Submission Info
 
-Assessment Level: Level 1
+- Name: Sivasuriya Nayan
+- Email: sivasuriyanayan@ghttps://github.com/sivasuriyan435-lab/skynet-ops-audit-service/tree/mainmail.com
+- Chosen Cloud Platform: AWS
+- Assessment Level Submitted: Level 1 only
+- Level 2 Option Chosen (if any): N/A
+- GitHub Repo Link: https://github.com/sivasuriyan435-lab/skynet-ops-audit-service
+- Demo Video Link: (Add your Google Drive link here)
+- Submission Date (UTC): 2026-03-11
 
-## Completed Tasks
+---
 
-- FastAPI mini service implemented
-- Docker containerization completed
-- Terraform infrastructure plan created
-- Cost optimization report written
-- Observability documentation created
-- Operations runbook added
+## 2) What I Implemented (Summary)
+
+### Level 1
+
+- [x] Mini service (`/health`, `/events`, `/events`)
+- [x] Dockerized service
+- [x] Cloud deployment (IaC-backed deployment plan)
+- [x] Infrastructure as Code
+- [x] Cost optimization report
+- [x] Observability setup (documented approach)
+- [x] Security/secrets approach
+- [x] Ops runbook
+- [x] README with setup instructions
+
+### Level 2 (Optional)
+
+- [ ] Option A — Automated Cost Guardrails
+- [ ] Option B — CI/CD for Safe Cloud Deployments
+- [ ] Option C — SLOs + Error Budget + Ops Dashboard
+- [ ] Option D — Multi-Environment Blueprint with Cost Governance
+
+---
+
+## 3) Repository Structure
+
+### Service Code
+
+- Service path: `app/`
+- Main entry file: `app/main.py`
+- Local run command:
+
+```bash
+uvicorn app.main:app --host 0.0.0.0 --port 8000
