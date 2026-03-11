@@ -2,11 +2,10 @@
 
 ## 1) Candidate & Submission Info
 
-- Name: Sivasuriya Nayan
-- Email: sivasuriyanayan@ghttps://github.com/sivasuriyan435-lab/skynet-ops-audit-service/tree/mainmail.com
+- Name: Sivasuriyan
+- Email: sivasuriyan435gmail.com
 - Chosen Cloud Platform: AWS
 - Assessment Level Submitted: Level 1 only
-- Level 2 Option Chosen (if any): N/A
 - GitHub Repo Link: https://github.com/sivasuriyan435-lab/skynet-ops-audit-service
 - Demo Video Link: (Add your Google Drive link here)
 - Submission Date (UTC): 2026-03-11
