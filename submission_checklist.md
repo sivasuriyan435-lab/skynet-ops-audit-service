@@ -27,14 +27,7 @@
 - [x] Ops runbook
 - [x] README with setup instructions
 
-### Level 2 (Optional)
 
-- [ ] Option A — Automated Cost Guardrails
-- [ ] Option B — CI/CD for Safe Cloud Deployments
-- [ ] Option C — SLOs + Error Budget + Ops Dashboard
-- [ ] Option D — Multi-Environment Blueprint with Cost Governance
-
----
 
 ## 3) Repository Structure
 
