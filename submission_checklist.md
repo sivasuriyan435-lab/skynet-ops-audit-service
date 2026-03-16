@@ -7,8 +7,6 @@
 - Chosen Cloud Platform: AWS
 - Assessment Level Submitted: Level 1 only
 - GitHub Repo Link: https://github.com/sivasuriyan435-lab/skynet-ops-audit-service
-- Demo Video Link: (Add your Google Drive link here)
-- Submission Date (UTC): 2026-03-11
 
 ---
 
